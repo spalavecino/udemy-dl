@@ -7,7 +7,7 @@ npm install -g udemy-dl
 ```
 
 ### Version
-**0.0.24**
+**0.0.25**
 
 ### Usage
 ![udemy-dl usage](https://raw.githubusercontent.com/riazXrazor/udemy-dl/master/gif/udemy-dl.gif)

@@ -1,6 +1,6 @@
 {
   "name": "udemy-dl",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "description": "Nodejs script to download a udemy.com course, for personal offline use",
   "main": "index.js",
   "bin": {
@@ -31,7 +31,6 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.17.1",
     "node-vtt-to-srt": "^1.0.0",
-    "phantom": "^4.0.12",
     "preferences": "^0.2.1",
     "progress": "^1.1.8",
     "query-string": "^6.1.0",
